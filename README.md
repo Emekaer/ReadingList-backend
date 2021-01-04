@@ -5,7 +5,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is a simple reading list which allows users to add books from their favourite authors and get back info about the authors alongside other books form the author.
+This project is a simple reading list that allows users to add books from their favourite authors and get back info about the authors alongside other books from the author.  
 This serves as the backend for <a href= "https://github.com/Emekaer/ReadingList-frontend">ReadingList-frontend</a>.
 	
 ## Technologies
